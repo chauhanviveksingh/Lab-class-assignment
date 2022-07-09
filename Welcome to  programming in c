@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Welcome to programming in c");
+   return 0;
+}
